@@ -1,0 +1,15 @@
+
+.image{
+    text-align: center;
+}
+.imcenter{
+    width: 200px;
+    border-radius: 500px;
+}
+.nom{
+    text-align: center;
+    font-weight: 100px;
+}
+.description{
+    text-align: center;
+}
